@@ -2,3 +2,5 @@ variables - data containers
 
 let     - varijabilno
 const   - konstanta koja se ne može mijenjati, vraća error
+
+Iduća je lekcija 6, poglavlje 1
